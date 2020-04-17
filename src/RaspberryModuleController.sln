@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configurator", "Configurator\Configurator.csproj", "{ACAB8B5B-8626-4C9D-AC7A-200B062AB3E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configurator", "Configurator\Configurator.csproj", "{ACAB8B5B-8626-4C9D-AC7A-200B062AB3E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test projects", "Test projects", "{67365508-3DD3-470E-BD6D-991B5CF5E76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfiguratorUnitTests", "ConfiguratorUnitTests\ConfiguratorUnitTests.csproj", "{238DDAAD-15AA-474A-A934-0D0BF378A11C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{ACAB8B5B-8626-4C9D-AC7A-200B062AB3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACAB8B5B-8626-4C9D-AC7A-200B062AB3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACAB8B5B-8626-4C9D-AC7A-200B062AB3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238DDAAD-15AA-474A-A934-0D0BF378A11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238DDAAD-15AA-474A-A934-0D0BF378A11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238DDAAD-15AA-474A-A934-0D0BF378A11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238DDAAD-15AA-474A-A934-0D0BF378A11C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{238DDAAD-15AA-474A-A934-0D0BF378A11C} = {67365508-3DD3-470E-BD6D-991B5CF5E76E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {84BFFAE9-5BDD-46CD-ABCC-7B9C4F9D8ACD}

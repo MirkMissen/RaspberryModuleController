@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QXyu5EFOcz/rAAVLHZryMExCUmQeFdGLgsh4bPQJbGwsg0qo+Sl6AnEbJ7vlA5F0zcBpDGI5VWyIAd7F3DFafQ==",
+  "dgSpecHash": "vtpwduq/zlj3vnEkE9b+yWnsdJKzD32P69Uha8ojMNqugMoPjrEjUlQl6coQ7tlTcG/nvw3ttlyFWz6qjIKNeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller\\RaspberryModuleController\\Configurator\\Configurator.csproj",
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\Configurator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

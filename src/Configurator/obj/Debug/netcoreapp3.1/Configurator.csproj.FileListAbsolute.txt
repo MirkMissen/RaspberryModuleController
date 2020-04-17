@@ -1,0 +1,9 @@
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\bin\Debug\netcoreapp3.1\Configurator.deps.json
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\bin\Debug\netcoreapp3.1\Configurator.dll
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\bin\Debug\netcoreapp3.1\Configurator.pdb
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.AssemblyInfo.cs
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.dll
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.pdb

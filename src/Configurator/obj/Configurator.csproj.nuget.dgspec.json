@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller\\RaspberryModuleController\\Configurator\\Configurator.csproj": {}
+    "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\Configurator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller\\RaspberryModuleController\\Configurator\\Configurator.csproj": {
+    "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\Configurator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller\\RaspberryModuleController\\Configurator\\Configurator.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\Configurator.csproj",
         "projectName": "Configurator",
-        "projectPath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller\\RaspberryModuleController\\Configurator\\Configurator.csproj",
+        "projectPath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\Configurator.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller\\RaspberryModuleController\\Configurator\\obj\\",
+        "outputPath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
