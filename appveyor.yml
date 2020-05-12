@@ -13,6 +13,6 @@ deploy_script:
 - cmd: >-
     docker login --username Mirkmissen --password eK8gKYqe8kDpk41C+uVqrg==
 
-    docker build -t ModuleController/Raspberry:latest .
+    docker build -t mirkmissen/modulecontroller:latest .
 
-    docker push ModuleController/Raspberry:latest
+    docker push mirkmissen/modulecontroller:latest
