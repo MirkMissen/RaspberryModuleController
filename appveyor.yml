@@ -1,5 +1,9 @@
 configuration: Release
 
+environment:
+  dockerpass:
+    secure: eK8gKYqe8kDpk41C+uVqrg==
+
 # restire NuGet packages before running MSBuild
 before_build:
   - nuget restore src/RaspberryModuleController.sln
@@ -11,7 +15,7 @@ build:
   
 deploy_script:
 - cmd: >-
-    docker login --username Mirkmissen --password eK8gKYqe8kDpk41C+uVqrg==
+    docker login --username Mirkmissen --password dockerpass
 
     docker build -t mirkmissen/modulecontroller:latest .
 
