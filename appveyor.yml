@@ -15,7 +15,10 @@ build:
   
 deploy_script:
 - cmd: >-
-    cd src
+    cd src    
+    
     docker login --username mirkmissen --password %dockerpass%
+    
     docker build -t mirkmissen/modulecontroller:latest .
+    
     docker push mirkmissen/modulecontroller:latest
