@@ -1,0 +1,12 @@
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\bin\Debug\netcoreapp3.1\LogicBoardLibrary.deps.json
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\bin\Debug\netcoreapp3.1\LogicBoardLibrary.dll
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\obj\Debug\netcoreapp3.1\LogicBoardLibrary.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\obj\Debug\netcoreapp3.1\LogicBoardLibrary.AssemblyInfo.cs
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\obj\Debug\netcoreapp3.1\LogicBoardLibrary.csprojAssemblyReference.cache
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\obj\Debug\netcoreapp3.1\LogicBoardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\bin\Debug\netcoreapp3.1\LogicBoardLibrary.pdb
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\obj\Debug\netcoreapp3.1\LogicBoardLibrary.csproj.CopyComplete
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\obj\Debug\netcoreapp3.1\LogicBoardLibrary.dll
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\LogicBoardLibrary\obj\Debug\netcoreapp3.1\LogicBoardLibrary.pdb

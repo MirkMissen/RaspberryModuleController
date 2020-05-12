@@ -7,3 +7,6 @@ C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Deb
 C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.AssemblyInfo.cs
 C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.dll
 C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.pdb
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Bruger\Documents\raspberrymodulecontroller.net\src\Configurator\obj\Debug\netcoreapp3.1\Configurator.csproj.CopyComplete

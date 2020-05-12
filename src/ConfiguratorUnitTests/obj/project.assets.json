@@ -1225,6 +1225,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Configurator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Configurator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Configurator.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -4564,10 +4587,22 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Configurator/1.0.0": {
+      "type": "project",
+      "path": "../Configurator/Configurator.csproj",
+      "msbuildProject": "../Configurator/Configurator.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Configurator >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.CodeCoverage >= 16.5.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
@@ -4603,7 +4638,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\Configurator.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Configurator\\Configurator.csproj"
+            },
+            "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Bruger\\Documents\\raspberrymodulecontroller.net\\src\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

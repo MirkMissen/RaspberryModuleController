@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Configurator.Contracts {
-    interface IPin {
+namespace Domain.PinController.Fakes {
+    interface IEmulatedShield {
     }
 }
