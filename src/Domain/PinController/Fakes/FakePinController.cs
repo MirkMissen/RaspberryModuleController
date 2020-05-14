@@ -20,5 +20,12 @@ namespace Domain.PinController.Fakes {
             // nothing in fake atm.
         }
 
+        public void OpenPin(DigitalPin pin, PinMode pinMode) {
+            // nothing in fake atm.
+        }
+
+        public void ClosePin(DigitalPin pin) {
+            // nothing in fake atm.
+        }
     }
 }

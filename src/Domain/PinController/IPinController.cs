@@ -30,5 +30,17 @@ namespace Domain.BasicComponents.PinController {
         /// <param name="pinMode">The Pin mode to be applied.</param>
         void SetPinMode(DigitalPin pin, PinMode pinMode);
 
+        /// <summary>
+        /// Opens a specific pin.
+        /// </summary>
+        /// <param name="pin">The pin to open.</param>
+        /// <param name="pinMode">The desired pin mode.</param>
+        void OpenPin(DigitalPin pin, Domain.PinController.PinMode pinMode);
+
+        /// <summary>
+        /// Closes the pin.
+        /// </summary>
+        /// <param name="pin">The pin to close.</param>
+        void ClosePin(DigitalPin pin);
     }
 }

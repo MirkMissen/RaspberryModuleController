@@ -44,6 +44,23 @@ namespace LogicBoardLibrary.PinControllers {
         }
 
         /// <summary>
+        /// Opens a specific pin.
+        /// </summary>
+        /// <param name="pin">The pin to open.</param>
+        /// <param name="pinMode">The desired pin mode.</param>
+        public void OpenPin(DigitalPin pin, Domain.PinController.PinMode pinMode) {
+            this._controller.OpenPin(pin.Number, this.AdaptPinMode(pinMode));
+        }
+
+        /// <summary>
+        /// Closes the pin.
+        /// </summary>
+        /// <param name="pin">The pin to close.</param>
+        public void ClosePin(DigitalPin pin) {
+            this._controller.ClosePin(pin.Number);
+        }
+
+        /// <summary>
         /// Adapts domain PinMode to controller PinMode.
         /// </summary>
         /// <param name="pinMode"></param>

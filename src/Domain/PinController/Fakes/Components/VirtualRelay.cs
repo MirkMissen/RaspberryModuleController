@@ -36,7 +36,7 @@ namespace Domain.PinController.Fakes {
             this.Pin = pin;
             this._controller = pinController;
             
-            _controller.SetPinMode(pin, PinMode.Output);
+            _controller.OpenPin(pin, PinMode.Output);
         }
         
         /// <summary>
